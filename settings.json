@@ -1,0 +1,22 @@
+{
+    "telemetry.enableTelemetry": false,
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Darcula Theme from IntelliJ",
+    "editor.fontSize": 16,
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "boundary",
+    "git.autofetch": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "window.zoomLevel": 1,
+    "editor.suggestSelection": "first",
+    "go.toolsGopath": "/usr/local/go/tools",
+    "go.lintTool": "staticcheck",
+    "go.formatTool": "goimports",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "Hasklig, Menlo, Monaco, 'Courier New', monospace",
+    "terminal.integrated.fontSize": 14,
+    "editor.fontLigatures": true
+}
